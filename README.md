@@ -11,5 +11,5 @@ Mapapp is a simple app concept with some of the basic usage of MapKit.
 ### Rote
 ![](images/maprote.gif)
 
-### Crear and User's Current Location
+### Clear and User's Current Location
 ![](images/mapclear.gif)
